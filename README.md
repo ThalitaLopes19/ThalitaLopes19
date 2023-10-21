@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thalita Lopes
-- 👀 I’m interested in conseguir o meu primeiro estágio
 - 🌱 I’m currently learning programação
 - 📫 How to reach me: thalitalopes1922@gmail.com
 
