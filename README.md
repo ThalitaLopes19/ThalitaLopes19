@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - 💌 Social Media
-![Gmail](https://img.shields.io/badge/Gmail-thalitalopes1922@gmail.comD14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
